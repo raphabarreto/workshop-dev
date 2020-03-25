@@ -1,10 +1,7 @@
-<!-- <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
-</h1> -->
+<h1 align="center">
+    <img alt="WorkshopDev" title="#delicinha" src=".github/workshopdev.png" width="250px" />
+</h1>
 
-<h4 align="center">
-  🚀 Workshop Dev
-</h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/raphabarreto/workshop-dev">
 
@@ -31,34 +28,27 @@
 
 <br>
 
-<!-- <p align="center">
-  <img alt="Semana OmniStack" src=".github/devradar.png" width="100%">
-</p> -->
+<p align="center">
+  <img alt="Workshop Dev" src="logo.png" width="70%">
+</p>
 
 ---
+
+## 📖 Sobre
+
+Sistema para cadastrar ideias enquanto ficamos confinados em casa para superar a crise do [Corona Vírus](https://www.worldometers.info/coronavirus/) 😷
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [CSS](https://www.w3schools.com/css/css_website_layout.asp)
+- [HTML](https://www.w3schools.com/howto/howto_website.asp)
+- [JavaScript](https://www.javascript.com/)
 
----
 
-## 💻 Projeto
-
-Ainda em construção
-
----
-
-## 🔖 Layout
-
-Ainda em construção
-
----
+## 🤖 Resultado
+<img src=".github/casacriativa.gif" height="400">
 
 ## 🤔 Como contribuir
 
@@ -69,12 +59,10 @@ Ainda em construção
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
----
-
 ## 🧾 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-Feito com ♥ by Raphael Barreto
+Feito com 💗 by [Raphael Barreto](https://www.linkedin.com/in/raphael-barreto-15631747/)
