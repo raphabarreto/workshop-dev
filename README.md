@@ -32,8 +32,6 @@
   <img alt="Workshop Dev" src="logo.png" width="70%">
 </p>
 
----
-
 ## 📖 Sobre
 
 Sistema para cadastrar ideias enquanto ficamos confinados em casa para superar a crise do [Corona Vírus](https://www.worldometers.info/coronavirus/) 😷
