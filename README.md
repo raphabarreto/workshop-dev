@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  <img alt="Workshop Dev" src="logo.png" width="70%">
+  <img alt="Workshop Dev" src="logo.png" width="50%">
 </p>
 
 ## 📖 Sobre
