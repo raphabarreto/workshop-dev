@@ -1,16 +1,40 @@
 function onOff() {
   document
-    .querySelector("#modal")
+    .querySelector('#modal')
     .classList
-    .toggle("hide")
+    .toggle('hide');
 
   document
-    .querySelector("body")
+    .querySelector('body')
     .classList
-    .toggle("hideScroll")
+    .toggle('hideScroll');
 
   document
-    .querySelector("#modal")
+    .querySelector('#modal')
     .classList
-    .toggle("addScroll")
+    .toggle('addScroll');
+}
+
+function checkFields(event) {
+  const valuesToCheck = [
+    'title',
+    'image',
+    'category',
+    'description',
+    'link',
+  ];
+
+  const isEmpty = valuesToCheck.find((value) => {
+    const checkIfIsString = typeof event.target[value].value === 'string';
+    const checkIfIsEmpty = !event.target[value].value.trim();
+
+    if (checkIfIsString && checkIfIsEmpty) {
+      return true;
+    }
+  });
+
+  if (isEmpty) {
+    event.preventDefault();
+    return alert('Por favor, preencha todos os campos');
+  }
 }
