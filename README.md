@@ -6,7 +6,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/raphabarreto/workshop-dev">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/raphabarreto/workshop-dev">
-  
+
   <a href="https://github.com/raphabarreto/workshop-dev/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/raphabarreto/workshop-dev">
   </a>
@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  <img alt="Workshop Dev" src="logo.png" width="50%">
+  <img alt="Workshop Dev" src=".github/logo.png" >
 </p>
 
 ## 📖 Sobre
